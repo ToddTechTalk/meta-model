@@ -84,3 +84,10 @@ Based on Stacking Ensemble Machine Learning structure, I enhanced the stacking l
     <img src="image/3-component final model.png" alt="" width="700" height="700">
   </a>
 </p>
+
+## 9. results of the meta-model compared with other machine learning algorithms
+<p align="center">
+  <a href="https://github.com/ToddTechTalk/meta-model/">
+    <img src="image/meta-model_result.PNG" alt="" width="700" height="350">
+  </a>
+</p>
