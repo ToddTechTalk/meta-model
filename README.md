@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ToddTechTalk/Best-README-Template">
-    <img src="images/title.png" alt="" width="300" height="230">
+    <img src="image/title.png" alt="" width="300" height="230">
   </a>
 </p>
 <p align="center">
@@ -12,10 +12,29 @@
 
 ## About The Project
 Based on Stacking Ensemble Machine Learning structure, I enhanced the stacking learning algorithm to build the meta-model for cheating detection.
-
-## Stacking Ensemble Machine Learning structure
 <p align="center">
   <a href="https://github.com/ToddTechTalk/meta-model/">
-    <img src="images/ml-models_big.JPG" alt="" width="700" height="200">
+    <img src="image/3-component final model.png" alt="" width="700" height="700">
+  </a>
+</p>
+
+## 1. machine learning algorithms
+<p align="center">
+  <a href="https://github.com/ToddTechTalk/meta-model/">
+    <img src="image/4MLs.png" alt="" width="700" height="450">
+  </a>
+</p>
+
+## 2. initial design of my stacking learning (1-component)
+<p align="center">
+  <a href="https://github.com/ToddTechTalk/meta-model/">
+    <img src="image/1-component initial.png" alt="" width="700" height="450">
+  </a>
+</p>
+
+## 3. the details of my stacking learning (1-component)
+<p align="center">
+  <a href="https://github.com/ToddTechTalk/meta-model/">
+    <img src="image/1-component detailed.png" alt="" width="700" height="450">
   </a>
 </p>
